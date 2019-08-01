@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car brand="Skoda">
+        <model>octavia</model>
+        <color>blue</color>
+        <count>5</count>
+        <motor consumption="5.5">
+            <type>diesel</type>
+        </motor>
+    </car>
+</cars>
